@@ -1,4 +1,6 @@
-[![My GitFut card](https://gitfut.com/aleamu27.png)](https://gitfut.com/aleamu27)
+<a href="https://gitfut.com/aleamu27">
+  <img src="https://gitfut.com/aleamu27.png" alt="My GitFut card" width="240">
+</a>
 
 <!--
 **aleamu27/aleamu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
